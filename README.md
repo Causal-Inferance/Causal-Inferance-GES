@@ -4,6 +4,8 @@
 
 All the relavant information is provided in the report and presentation slides, and all the required code and dataset is provided in this organization https://github.com/Causal-Inferance.
 
+Colab Link - https://colab.research.google.com/drive/1IMNMHqB80W2aGSMAO0-SYyRI_KSaikHt?usp=sharing
+
 Members of Group 3:
 
 - [Harsh Gujarathi](https://github.com/alphaNewrex) (2020A7PS1712G) 
